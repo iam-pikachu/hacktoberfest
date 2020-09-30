@@ -1,0 +1,3 @@
+else if (command === "say"){
+let say = args.join(" ")
+if(!say)return message.channel.send("👀 speck something so i will say that or i will kill u hahaha")
