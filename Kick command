@@ -1,0 +1,4 @@
+else if (command === "kick"){
+ message.mention.members.first().kick()
+ message.channel.send("`👀 you kicked a person OwO hope he will not join again lol")
+ }
