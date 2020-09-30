@@ -1,0 +1,6 @@
+else if(command === "message_to_reply"){
+message.channel.send("reply_message")
+}
+//its toooo easy try now
+//below is to login
+client.login("token_goes_here")
